@@ -3,9 +3,9 @@ import cors from 'cors'
 import connectDB from './utils/connectDB.js';
 import { Task } from './schema/task.js';
 const app = express();
-const port = 3000;
 app.use(cors());
 app.use(express.json());
+const port = process.env.PORT || 3000;
 
 connectDB();
 
