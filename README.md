@@ -94,6 +94,8 @@ Manage Task Status: Easily switch tasks between "To Do," "On Progress," and "Don
 
 🧩 Future Improvements
 
+Todo make it responsive to all device
+
 ✅ Drag-and-drop task management
 
 ✅ User authentication and role-based access
